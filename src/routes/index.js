@@ -2,10 +2,10 @@ const { Router } = require('express');
 
 const router = new Router();
 
-router.get('/diccionario', (req, res) => {
+router.get('/Estudiante', (req, res) => {
   const data = {
-    diccionario: 'Diccionario',
-    word: 'palabras',
+    nombre: 'Antony-Lopez',
+    word: '3-743-1884',
   };
   res.json(data);
 });
