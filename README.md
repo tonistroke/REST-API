@@ -1,3 +1,3 @@
-# node-kcxgdn
+# Sustituir Base de Datos por REST API
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-kcxgdn)
+En base a la aplicación desarrollada en Desplegar Flask sobre Gunicorn y Nginx, debe sustituir la arquitectura de conexión a una base de datos no relacional a manejarla por un API de tipo REST.
